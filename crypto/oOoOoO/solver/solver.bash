@@ -1,0 +1,1 @@
+SECCON_HOST=$SECCON_HOST SECCON_PORT=$SECCON_PORT sage solver.sage | tail -n 1

@@ -1,0 +1,11 @@
+service average
+{
+    type = UNLISTED
+    socket_type = stream
+    protocol = tcp
+    port = 1234
+    user = average
+    server = /home/average/average.sh
+    wait = no
+    rlimit_as = 1024M
+}

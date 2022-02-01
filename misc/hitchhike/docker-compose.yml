@@ -1,0 +1,12 @@
+version: '3'
+services:
+  hitchhike:
+    build:
+      context: .
+    working_dir: /home/ctf
+    container_name: hitchhike
+    restart: always
+    ports:
+      - "10042:10042"
+    environment:
+      - FLAG=SECCON{1_b3li3v3_th1s_1s_th3_sh0rt3st_Pyth0n_c0d3_2_g3t_SH3LL}

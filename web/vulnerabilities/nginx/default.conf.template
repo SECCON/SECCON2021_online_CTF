@@ -1,0 +1,19 @@
+server {
+    listen                  80;
+    listen                  443 ssl;
+    server_name             vulnerabilities.quals.seccon.jp;
+
+    ssl_certificate         _.quals.seccon.jp.crt;
+    ssl_certificate_key     _.quals.seccon.jp.key;
+    ssl_protocols           TLSv1 TLSv1.1 TLSv1.2;
+    ssl_ciphers             HIGH:!aNULL:!MD5;
+
+    auth_basic              "${AUTH}";
+    # ID: seccon
+    # Password: PLonjCheC6IktW6l
+    auth_basic_user_file    htpasswd;
+
+    location / {
+        proxy_pass          http://app:8080;
+    }
+}

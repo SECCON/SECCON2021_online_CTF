@@ -1,0 +1,14 @@
+version: '3'
+services:
+  pyast64:
+    build:
+      context: .
+    working_dir: /home/pwn
+    container_name: pyast64
+    ulimits:
+      nproc: 65535
+      core: 0
+    ports:
+      - "9064:9999"
+    entrypoint: /etc/init.sh
+    restart: always

@@ -1,0 +1,68 @@
+ruby qchecker.rb | \
+ruby - S | \
+ruby - E | \
+ruby - C | \
+ruby - C | \
+ruby - O | \
+ruby - N | \
+ruby - { | \
+ruby - L | \
+ruby - 3 | \
+ruby - t | \
+ruby - 5 | \
+ruby - _ | \
+ruby - w | \
+ruby - r | \
+ruby - 1 | \
+ruby - t | \
+ruby - 3 | \
+ruby - _ | \
+ruby - y | \
+ruby - 0 | \
+ruby - u | \
+ruby - r | \
+ruby - _ | \
+ruby - Q | \
+ruby - u | \
+ruby - 1 | \
+ruby - n | \
+ruby - 3 | \
+ruby - ! | \
+ruby - ! | \
+ruby - ! | \
+ruby - }
+eval$uate=%w(a=%(eval$uate=%w(#{$uate})*"");Bmpvaddhjtvsexgyymbghxoyrfznijutqtfppasdyrtttohabjzakuxdlsxcaaevfgiurpejkybbhjzdgxlosaodvmzkuleg
+e                  pu                  dm                  eu                  io                  pu                  dx                  p
+n  vvqrfjdafarsecqdck  nqhvjakslxczcd  ds  odursojbekwlil  ct  qawagtoktyinyc  dc  lnqiiticyudmoaednl  wnznlyqyvozqzwvtbiaezgvnhy  ypjsiw=b=
+-  >a{a.split(?+).map  {|b|b.to_i(36)  }}  ;c=b["awyiv4fj  fk  uu2pkv+awyiv4f  vu  t716g3j+axce5e4pxr  ogszr3+5i0omfd5dm9xf9q7+ax  ce5e4khrz
+2  1ypr+5htqqi9iasvmj  ri7+axcc76i03z  rn  7gu7+cbt4m8xyb  r3  cb27+1ge6snjex  10  w3si9+1k8vdb4fzcys  2yo0"];d,e,f,g,h,i=b["02+w  +0+0+0+0"
+]  ;(j=eval(?A<<82<<7  1<<86)[0])&&d=  =0                  &&                  (e                  +=  1;k=2**64;l=->(a,b){(a-j.o  rd)*256.p
+o  w(b-2,b)%b};f=l[f,  k+13];g=l[g,k+  37  ];h=l[h,  k+51];i=  l[i,k+81  ];j==?}&  &(d=e==32&&f+g+h+i  ==0?2:1);a.sub!(/"0.*?"/,'  "0'+[d,e,
+f  ,g,h,i].map{|x|x.t  o_s(36)}*?+<<3  4)  );srand(f)  ;k=b["  7acw+jsjm+  46d84"  ];l=d==2?7:6;m=[?#  *(l*20)<<10]*11*"";l.times  {|a|b=d==
+0  &&e!=0?rand(4):0;9  .times{|e|9.ti  me  s{|f|(c[k[d]  /10*  *a%10]>>(e*9  +f)&  1)!=0&&(g=f;h=e;b.  times{g,h=h,8-g};t=(h*l+l+  a)*20+h+g
+*                  2+                  2;  m[t]=m[t+1]=""  <<  32)}}};a.sub!(  /B                  .*                  ?=/,"B=");  n=m.count
+(?#)-a.length;a.sub!("B=","B#{(1..n).map{(rand(26)+97).chr}*""}=");o=0;m.length.times{|b|m[b]==?#&&o<a.length&&(m[b]=a[o];o+=1)};puts(m))*""
+
+ruby qchecker.rb | \
+ruby - S | \
+ruby - E | \
+ruby - C | \
+ruby - C | \
+ruby - O | \
+ruby - N | \
+ruby - { | \
+ruby - b | \
+ruby - a | \
+ruby - d | \
+ruby - }
+eval$uate=%w(a=%(eval$uate=%w(#{$uate})*"");Bhhovmlzmtzyarnumofuzjcvvpuxmyboxfazrbwuagtf=b=->a{a.split(?+).map{|b|b.to_i
+(  36)}};  c=b["a  wy                  iv                  4f                  jf                  kuu2pkv+awyiv4fvut716
+g  3j+axc  e5e4px  ro  gszr3+5i0omfd5  dm  9xf9q7+axce5e4  kh  rz21ypr+5htqqi  9i  asvmjri7+axcc76i03zrn7gu7+cbt4m8xybr3
+c  b27+1g  e6snje  x1  0w3si9+1k8vdb4  fz  cys2yo0"];d,e,  f,  g,h,i=b["01+b+  2w  kjl92eouw9y+2h77kkf7pb531+df7bivok73n
+q+2  rl  up  3w  rite  1p"];(j=eval(?  A<  <82<<71<<86)[0  ])  &&d==0&&(e+=1;  k=  2**64;l=->(a,b){(a-j.ord)*256.pow(b-2
+,b)  %b  };  f=  l[f,                  k+  13];g=l[g,k+37  ];  h=l[h,k+51];i=  l[  i,k+81];        j==?}&&(d=e==32&&f+g+
+h+i  ==  0?  2:  1);a  .sub!(/"  0.*?"/,'  "0'+[d,e,f,g,h  ,i  ].map{|x|x.to_  s(  36)}*?+<<34));  srand(f);k=b["7acw+js
+jm+46  d84"];  l=d==2  ?7:6;m=[?#  *(l*20  )<<10]*11*"";l  .t  imes{|a|b=d==0  &&  e!=0?rand(4):0  ;9.times{|e|9.times{|
+f|(c[  k[d]/1  0**a%1  0]>>(e*9+f)&  1)!=  0&&(g=f;h=e;b.  ti  mes{g,h=h,8-g}  ;t  =(h*l+l+a)*20+  h+  g*2+  2;m[  t]=m[
+t+1]=  ""<<32  )}}};a  .sub!(/B.*?=/,  "B                  ="  );n=m.count(?#  )-                  a.  leng  th;a  .sub!
+("B=","B#{(1..n).map{(rand(26)+97).chr}*""}=");o=0;m.length.times{|b|m[b]==?#&&o<a.length&&(m[b]=a[o];o+=1)};puts(m))*""

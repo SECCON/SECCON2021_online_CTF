@@ -1,0 +1,33 @@
+ruby qchecker.rb | \
+ruby - S | \
+ruby - E | \
+ruby - C | \
+ruby - C | \
+ruby - O | \
+ruby - N | \
+ruby - { | \
+ruby - L | \
+ruby - 3 | \
+ruby - t | \
+ruby - 5 | \
+ruby - _ | \
+ruby - w | \
+ruby - r | \
+ruby - 1 | \
+ruby - t | \
+ruby - 3 | \
+ruby - _ | \
+ruby - y | \
+ruby - 0 | \
+ruby - u | \
+ruby - r | \
+ruby - _ | \
+ruby - Q | \
+ruby - u | \
+ruby - 1 | \
+ruby - n | \
+ruby - 3 | \
+ruby - ! | \
+ruby - ! | \
+ruby - ! | \
+ruby - }

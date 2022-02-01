@@ -1,0 +1,1 @@
+flag = 'SECCON{Here_is_Huge-Huge_Island_yahhoOoOoOoOoOoO}'
